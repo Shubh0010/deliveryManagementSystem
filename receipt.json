@@ -1,0 +1,40 @@
+{
+  "Data": [
+    {
+      "username": "Shubham",
+      "itemname": "Fusball Table",
+      "shopName": "Raz Plaza",
+      "shopAddress": " @3 Sector Chandigarh",
+      "contactNumber": "45",
+      "price": " 4500",
+      "status": "Completed"
+    },
+    {
+      "username": "Shubham",
+      "itemname": "Iphone6s",
+      "shopName": "Icentre",
+      "shopAddress": " sector 12, Gurugram",
+      "contactNumber": "78",
+      "price": " 65000",
+      "status": "Completed"
+    },
+    {
+      "username": "Durgesh",
+      "itemname": "AC",
+      "shopName": "actraders",
+      "shopAddress": " 23 sector",
+      "contactNumber": "987",
+      "price": "8400",
+      "status": "Completed"
+    },
+    {
+      "username": "Shubham",
+      "itemname": "Nokia 1600",
+      "shopName": "Ramesh traders",
+      "shopAddress": " secttor 8",
+      "contactNumber": "7894",
+      "price": "784",
+      "status": "Pending"
+    }
+  ]
+}
